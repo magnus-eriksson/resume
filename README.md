@@ -23,6 +23,7 @@ I like making day to day tasks easier for me and my co-workers. It quite often m
 # Work experience
 
 __Web developer / Lead system developer @ *River Cresco AB*__
+
 * Buildning web sites and online campaigns
 * Installation, configuration and maintanence of servers (LAMP/LEMP Stack)
 * Integration between systems (REST/SOAP API's)
@@ -30,6 +31,7 @@ __Web developer / Lead system developer @ *River Cresco AB*__
 * Technical support for my team, the agency and clients
 
 __Web developer / Technical manager @ *Klirr Stockholm AB*__
+
 * Buildning web sites and online campaigns
 * Installation, configuration and maintanence of servers (LAMP/LEMP Stack)
 * Integration between systems (REST/SOAP API's)
@@ -37,32 +39,39 @@ __Web developer / Technical manager @ *Klirr Stockholm AB*__
 * Technical support for my team, the agency and clients
 
 __Web developer @ *ONE Media*__
+
 * Buildning web sites, online campaigns and e-mail campaigns
 * Integration between systems (REST/SOAP API's)
 * Social media integration
 * Technical support for my team, the agency and clients
 
 __Webmaster @ *TDC AB*__
+
 * Rebuild and maintaining the website and online campaigns for the residential market
 * Integration between systems (SOAP API's)
 * Design/UX for the new website, designing print material (packaging/guides)
 * Helping out the marketing department with various tasks
 
 __Webmaster @ *UPC Sverige AB*__
+
 * Maintaining the website and creating online campaigns
 * Helping out the marketing department with various tasks
 
 __Technical customer support @ *UPC Sverige AB*__
+
 * Technical support to customer for analog- and digital TV (cable TV) and internet
 * Training new staff in the above mentioned support fields
 
 __Customer support @ *Teracom AB*__
+
 * Technical support to customer for the terrestrial tv- and radion broadcasts
 
 __Webmaster @ *Magdan & CO*__
+
 * Rebuild and maintaining the website and online campaigns
 
 __Multimedia producer @ *Doorways Education AB*__
+
 * Building e-learning material on CD-ROM and online
 * Building online and offline campaings
 * Audio and video editing
