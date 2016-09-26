@@ -22,6 +22,13 @@ I like making day to day tasks easier for me and my co-workers. It quite often m
 
 # Work experience
 
+__Web developer / System developer @ *Isotop AB*__
+
+* Building web sites and services
+* Maintenance of existing web- and e-commerce sites.
+* Integration between systems (REST/SOAP API's)
+* Supporting my team, the agency and clients
+
 __Web developer / Lead system developer @ *River Cresco AB*__
 
 * Buildning web sites and online campaigns
