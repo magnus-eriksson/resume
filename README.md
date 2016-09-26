@@ -1,5 +1,5 @@
 # About me
-
+<!--section:[About me]-->
 
 ### My background
 I'm Magnus. I got hooked on programming in the late 80's. I wrote my first piece of code in Basic on my Commodore 64.
@@ -21,6 +21,7 @@ I'm an easy going guy with a genuine interest for new technologies and always st
 I like making day to day tasks easier for me and my co-workers. It quite often manifests itself in the form of a bash script.
 
 # Work experience
+<!--section:[Work experience]-->
 
 __Web developer / System developer @ *Isotop AB*__
 
